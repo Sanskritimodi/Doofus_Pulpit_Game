@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{92BB1920-11ED-52F9-449C-F42E16F3349F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovement.cs" Line="79" Column="31" />
+      <File FileName="Assets/FollowPlayer.cs" Line="14" Column="1" />
+      <File FileName="Assets/PulpitController.cs" Line="26" Column="1" />
+      <File FileName="Assets/PulpitSpawner.cs" Line="33" Column="46" />
+      <File FileName="Assets/GameManager.cs" Line="95" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DOOFUS" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3139a8ec-d9dc-4589-ba1f-43ce1d746968" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
